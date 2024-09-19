@@ -16,9 +16,11 @@ Publications
 [**Learning Part Motion of Articulated Objects Using Spatially Continuous Neural Implicit Representations**](https://yushi-du.github.io/PartMotion/)
 <font size=3>Yushi Du*, Ruihai Wu*, Yan Shen, Hao Dong<br></font>
 We introduce a novel framework that explicitly disentangles the part motion of articulated objects by predicting the movements of articulated parts by utilizing spatially continuous neural implicit representations.<br>
+[code](https://github.com/Yushi-Du/PartMotion)<br>
 _BMVC2023_
 
 [**Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly**](https://arxiv.org/abs/2309.06810)
 <font size=3>Ruihai Wu, Chenrui Tie, Yushi Du, Yan Shen, Hao Dong<br></font>
 We study geometric shape assembly by leveraging SE(3) Equivariance, which disentangles poses and shapes of fractured parts.<br>
+[code](https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly)<br>
 _ICCV2023_
