@@ -19,6 +19,6 @@ Yushi Du\*, Ruihai Wu\*, Yan Shen, Hao Dong<font style="margin: 0; padding: 0; l
 _BMVC2023_
 
 [**Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly**](https://arxiv.org/abs/2309.06810)<br>
-Ruihai Wu, Chenrui Tie, Yushi Du, Yan Shen, Hao Dong<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We study geometric shape assembly by leveraging SE(3) Equivariance, which disentangles poses and shapes of fractured parts.<br></font>
+Ruihai Wu\*, Chenrui Tie\*, Yushi Du, Yan Shen, Hao Dong<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We study geometric shape assembly by leveraging SE(3) Equivariance, which disentangles poses and shapes of fractured parts.<br></font>
 [code](https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly)<br>
 _ICCV2023_
