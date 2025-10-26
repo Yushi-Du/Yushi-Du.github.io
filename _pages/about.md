@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the Department of Electrical and Electronics Engineering at The University of Hong Kong, advised by [Prof. Yanchao Yang]([https://www.XXX.com/](https://yanchaoyang.github.io/)). Before that, I obtained my bachelors degree from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest lies in the intersection between computer vision and robotics.
+I am currently a PhD student in the Department of Electrical and Electronics Engineering at The University of Hong Kong, advised by [Prof. Yanchao Yang]([https://www.XXX.com/](https://yanchaoyang.github.io/)). Before that, I obtained my Bachelor's degree from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest lies in the intersection between computer vision and robotics.
 
 During my undergraduate study, I am very fortunate to be advised by [Prof. Hao Dong]([https://www.XXX.com/](https://zsdonghao.github.io/)) who leads the [PKU-Agibot Lab](https://zsdonghao.github.io/#lab) at Peking University, China.
 
