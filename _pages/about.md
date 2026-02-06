@@ -13,6 +13,14 @@ During my undergraduate study, I am very fortunate to be advised by [Prof. Hao D
 
 Publications
 ------
+[**COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying**](https://yushi-du.github.io/COLA/)<br>
+Yushi Du\*, Yixuan Li\*, Baoxiong Jia\*, Yutang Lin, Pei Zhou, Wei Liang, Yanchao Yang, Siyuan Huang<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We present COLA, a proprioception-only reinforcement learning approach that unifies leader and follower behaviors within a single policy. Trained in a closed-loop environment modeling dynamic interactions among humanoid, object, and human, COLA implicitly predicts object motion to enable compliant collaboration and maintain load balance.<br></font>
+_ICRA2026_
+
+[**VER: Vision expert transformer for robot learning via foundation distillation and dynamic routing**](https://yixiaowang7.github.io/ver_page/)<br>
+Yixiao Wang, Mingxiao Huo, Zhixuan Liang, Yushi Du, Lingfeng Sun, Haotian Lin, Jinghuan Shang, Chensheng Peng, Mohit Bansal, Mingyu Ding†, Masayoshi Tomizuka<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We propose VER, a Vision Expert transformer for Robot learning. During pretraining, VER distills multiple VFMs into a vision expert library. We then fine-tune only a lightweight routing network (fewer than 0.4% of parameters) to dynamically select task-relevant experts from the pretrained library for downstream robot tasks. We further introduce Patchwise Expert Routing with Curriculum Top-K Annealing to improve both flexibility and precision of dynamic expert selection. Moreover, VER supports parameter-efficient finetuning for scalable expert utilization and robot-domain knowledge integration.<br></font>
+_ICLR2026_
+
 [**Learning Part Motion of Articulated Objects Using Spatially Continuous Neural Implicit Representations**](https://yushi-du.github.io/PartMotion/)<br>
 Yushi Du\*, Ruihai Wu\*, Yan Shen, Hao Dong<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We introduce a novel framework that explicitly disentangles the part motion of articulated objects by predicting the movements of articulated parts by utilizing spatially continuous neural implicit representations.<br></font>
 [code](https://github.com/Yushi-Du/PartMotion)<br>
