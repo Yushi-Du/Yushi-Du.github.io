@@ -13,6 +13,10 @@ During my undergraduate study, I am very fortunate to be advised by [Prof. Hao D
 
 Publications
 ------
+[**OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System**](https://omniclone.github.io/)<br>
+Yixuan Li\*, Le Ma\*, Yutang Lin\*, Yushi Du, Mengya Liu, Kaizhe Hu, Jieming Cui, Yixin Zhu, Wei Liang, Baoxiong Jia, Siyuan Huang<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We present OmniClone, a diagnostic-guided whole-body teleoperation system that unifies real-time control, motion generation, and VLA models within a single policy. Trained with OmniBench stratifying motion categories and difficulty levels, OmniClone enables subject-agnostic retargeting and achieves high-fidelity multi-skill control on a single consumer GPU with modest data requirements.<br></font>
+_in Submission_
+
 [**COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying**](https://yushi-du.github.io/COLA/)<br>
 Yushi Du\*, Yixuan Li\*, Baoxiong Jia\*, Yutang Lin, Pei Zhou, Wei Liang, Yanchao Yang, Siyuan Huang<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We present COLA, a proprioception-only reinforcement learning approach that unifies leader and follower behaviors within a single policy. Trained in a closed-loop environment modeling dynamic interactions among humanoid, object, and human, COLA implicitly predicts object motion to enable compliant collaboration and maintain load balance.<br></font>
 _ICRA2026_
