@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yushi Du / Personal Homepage"
+title                    : "Yushi Du"
 title_separator          : "-"
 name                     : &name "Yushi Du"
-description              : &description "personal description"
+description              : &description "Robotics researcher working on humanoid interaction, reinforcement learning, compliance control, and robot tactility."
 url                      : https://yushi-du.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yushi-Du/Yushi-Du.github.io"
@@ -21,14 +21,14 @@ repository               : "Yushi-Du/Yushi-Du.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Portrait.png"
+  avatar           : "Portrait-sharpened.png"
   name             : "Yushi Du"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics, Reinforcement Learning, Computer Vision"
-  location         : "Beijing, China"
+  bio              : "Robotics, Reinforcement Learning, Embodied Intelligence"
+  location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "1900012147@pku.edu.cn" 
+  email            : "yushidu628@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

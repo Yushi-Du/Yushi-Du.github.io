@@ -1,36 +1,20 @@
 ---
+layout: academic-home
 permalink: /
-title: "About me"
-author_profile: true
+title: "Yushi Du — Robotics Researcher"
+description: "Yushi Du is a robotics researcher working on humanoid interaction, reinforcement learning, compliance control, and robot tactility."
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+research_interests:
+  - Humanoid-object interaction
+  - Compliance control
+  - Human-humanoid collaboration
+  - Robot tactility
+show_research_interests: false
 ---
 
-I am currently a PhD student in the Department of Electrical and Electronics Engineering at The University of Hong Kong, advised by [Prof. Yanchao Yang]([https://www.XXX.com/](https://yanchaoyang.github.io/)). Before that, I obtained my Bachelor's degree from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest lies in enabling robots to seamlessly integrate into complex human living scenarios, including humanoid-object interaction, robot compliance control, human-humanoid interaction, and robot tactility.
+I am currently a first-year PhD student in the Department of Electrical and Electronic Engineering at [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Yanchao Yang](https://yanchaoyang.github.io/). Before that, I received my bachelor's degree from the [School of EECS](https://eecs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/).
 
-During my undergraduate study, I am very fortunate to be advised by [Prof. Hao Dong]([https://www.XXX.com/](https://zsdonghao.github.io/)) who leads the [PKU-Agibot Lab](https://zsdonghao.github.io/#lab) at Peking University, China.
-
-Publications
-------
-[**OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System**](https://omniclone.github.io/)<br>
-Yixuan Li\*, Le Ma\*, Yutang Lin\*, Yushi Du, Mengya Liu, Kaizhe Hu, Jieming Cui, Yixin Zhu, Wei Liang, Baoxiong Jia, Siyuan Huang<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We present OmniClone, a diagnostic-guided whole-body teleoperation system that unifies real-time control, motion generation, and VLA models within a single policy. Trained with OmniBench stratifying motion categories and difficulty levels, OmniClone enables subject-agnostic retargeting and achieves high-fidelity multi-skill control on a single consumer GPU with modest data requirements.<br></font>
-_in Submission_
-
-[**COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying**](https://yushi-du.github.io/COLA/)<br>
-Yushi Du\*, Yixuan Li\*, Baoxiong Jia\*, Yutang Lin, Pei Zhou, Wei Liang, Yanchao Yang, Siyuan Huang<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We present COLA, a proprioception-only reinforcement learning approach that unifies leader and follower behaviors within a single policy. Trained in a closed-loop environment modeling dynamic interactions among humanoid, object, and human, COLA implicitly predicts object motion to enable compliant collaboration and maintain load balance.<br></font>
-_ICRA2026_
-
-[**VER: Vision expert transformer for robot learning via foundation distillation and dynamic routing**](https://yixiaowang7.github.io/ver_page/)<br>
-Yixiao Wang, Mingxiao Huo, Zhixuan Liang, Yushi Du, Lingfeng Sun, Haotian Lin, Jinghuan Shang, Chensheng Peng, Mohit Bansal, Mingyu Ding†, Masayoshi Tomizuka<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We propose VER, a Vision Expert transformer for Robot learning. We further introduce Patchwise Expert Routing with Curriculum Top-K Annealing to improve both flexibility and precision of dynamic expert selection. Moreover, VER supports parameter-efficient finetuning for scalable expert utilization and robot-domain knowledge integration.<br></font>
-_ICLR2026_
-
-[**Learning Part Motion of Articulated Objects Using Spatially Continuous Neural Implicit Representations**](https://yushi-du.github.io/PartMotion/)<br>
-Yushi Du\*, Ruihai Wu\*, Yan Shen, Hao Dong<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We introduce a novel framework that explicitly disentangles the part motion of articulated objects by predicting the movements of articulated parts by utilizing spatially continuous neural implicit representations.<br></font>
-[code](https://github.com/Yushi-Du/PartMotion)<br>
-_BMVC2023_
-
-[**Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly**](https://arxiv.org/abs/2309.06810)<br>
-Ruihai Wu\*, Chenrui Tie\*, Yushi Du, Yan Shen, Hao Dong<font style="margin: 0; padding: 0; line-height: 1;" size=3><br>We study geometric shape assembly by leveraging SE(3) Equivariance, which disentangles poses and shapes of fractured parts.<br></font>
-[code](https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly)<br>
-_ICCV2023_
+My research focuses on helping robots integrate naturally into complex human environments through humanoid-object interaction, compliance control, human-humanoid collaboration, and tactile perception. During my undergraduate studies, I was fortunate to be advised by [Prof. Hao Dong](https://zsdonghao.github.io/), who leads the [PKU-Agibot Lab](https://zsdonghao.github.io/#lab). I am also fortunate to collaborate with [Dr. Siyuan Huang](https://siyuanhuang.com/) at [BIGAI](https://www.bigai.ai/).

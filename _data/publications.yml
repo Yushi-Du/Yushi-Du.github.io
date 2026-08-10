@@ -1,0 +1,79 @@
+- title: "OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System"
+  status: "In Submission"
+  venue: "arXiv preprint, 2026"
+  year: "2026"
+  type: "Teleoperation system"
+  authors: "Yixuan Li*, Le Ma*, Yutang Lin*, Yushi Du, Mengya Liu, Kaizhe Hu, Jieming Cui, Yixin Zhu, Wei Liang, Baoxiong Jia, Siyuan Huang"
+  description: "A diagnostic-guided whole-body teleoperation system that unifies real-time control, motion generation, and VLA models within a single policy."
+  homepage: "https://omniclone.github.io/"
+  overview: "/assets/media/publications/omniclone-overview.gif"
+  overview_alt: "OmniClone whole-body humanoid teleoperation overview."
+  tags:
+    - Humanoids
+    - Teleoperation
+    - VLA
+
+- title: "COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying"
+  status: "ICRA"
+  venue: "IEEE International Conference on Robotics and Automation (ICRA), 2026"
+  year: "2026"
+  type: "Coordination policy"
+  authors: "Yushi Du*, Yixuan Li*, Baoxiong Jia*, Yutang Lin, Pei Zhou, Wei Liang, Yanchao Yang, Siyuan Huang"
+  description: "A proprioception-only reinforcement learning approach that unifies leader and follower behaviors for compliant, load-balanced human-humanoid collaboration."
+  homepage: "https://yushi-du.github.io/COLA/"
+  overview: "/assets/media/publications/cola-overview.gif"
+  overview_alt: "A humanoid following human pushing and pulling commands while carrying a heavy payload."
+  tags:
+    - Reinforcement learning
+    - Collaboration
+    - Humanoids
+
+- title: "VER: Vision Expert Transformer for Robot Learning via Foundation Distillation and Dynamic Routing"
+  status: "ICLR"
+  venue: "International Conference on Learning Representations (ICLR), 2026"
+  year: "2026"
+  type: "Vision model"
+  authors: "Yixiao Wang, Mingxiao Huo, Zhixuan Liang, Yushi Du, Lingfeng Sun, Haotian Lin, Jinghuan Shang, Chensheng Peng, Mohit Bansal, Mingyu Ding†, Masayoshi Tomizuka"
+  description: "A vision expert transformer with patchwise expert routing and curriculum top-k annealing for flexible, parameter-efficient robot learning."
+  homepage: "https://yixiaowang7.github.io/ver_page/"
+  overview: "/assets/media/publications/ver-overview.webp"
+  overview_alt: "Overview of the VER vision expert architecture and robot-learning pipeline."
+  overview_fit: "contain"
+  tags:
+    - Robot learning
+    - Vision
+    - Foundation models
+
+- title: "Learning Part Motion of Articulated Objects Using Spatially Continuous Neural Implicit Representations"
+  status: "BMVC"
+  venue: "British Machine Vision Conference (BMVC), 2023"
+  year: "2023"
+  type: "3D perception model"
+  authors: "Yushi Du*, Ruihai Wu*, Yan Shen, Hao Dong"
+  description: "A framework that disentangles articulated part motion by predicting movements through spatially continuous neural implicit representations."
+  homepage: "https://yushi-du.github.io/PartMotion/"
+  overview: "/assets/media/publications/partmotion-overview.webp"
+  overview_alt: "Overview of spatially continuous part-motion generation for articulated objects."
+  overview_fit: "contain"
+  code: "https://github.com/Yushi-Du/PartMotion"
+  tags:
+    - 3D vision
+    - Articulation
+    - Implicit fields
+
+- title: "Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly"
+  status: "ICCV"
+  venue: "IEEE/CVF International Conference on Computer Vision (ICCV), 2023"
+  year: "2023"
+  type: "Geometric learning"
+  authors: "Ruihai Wu*, Chenrui Tie*, Yushi Du, Yan Shen, Hao Dong"
+  description: "An SE(3)-equivariant approach to geometric shape assembly that disentangles the poses and shapes of fractured parts."
+  homepage: "https://crtie.github.io/SE-3-part-assembly/"
+  overview: "/assets/media/publications/se3-overview.webp"
+  overview_alt: "Overview of SE(3)-equivariant geometric shape assembly."
+  overview_fit: "contain"
+  code: "https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly"
+  tags:
+    - SE(3) equivariance
+    - Shape assembly
+    - 3D vision
