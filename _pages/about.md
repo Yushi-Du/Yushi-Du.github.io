@@ -2,6 +2,7 @@
 layout: academic-home
 permalink: /
 title: "Yushi Du — Robotics Researcher"
+seo_title: "Yushi Du -- Personal Homepage"
 description: "Yushi Du is a robotics researcher working on humanoid interaction, reinforcement learning, compliance control, and robot tactility."
 author_profile: false
 redirect_from: 
